@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Captured screenshots (runtime output)
+captures/
+
+# Logs
+*.txt
+ocr_event_log.txt
+hsv_config.txt
+roi_config.txt
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Environment
+.env
+venv/
+.venv/
